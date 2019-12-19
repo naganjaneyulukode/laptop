@@ -10,9 +10,7 @@
 #here we import this in the __init__.py making it accesssible from 
 #packages namespace as below. See __init__.py code to understand how
 
-# from pckg import f1m1
-# from pckg import f1m2
-# from pckg import var1
+
 
 # print(var1)
 # f1m1()
